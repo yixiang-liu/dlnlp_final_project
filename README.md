@@ -5,5 +5,5 @@ above are presented here. We select the best one as the object of the next part.
 2. After part 1, we have got the best performing model is bert2bert. Now we decide to fine-tune bert2bert with multi-language translation data, which includes
 Eng-Fra and Eng-Hun pairs. In this part, we compare randomly shuffled Eng-Fra and Eng-Hun pairs with Eng-Fra and Eng-Hun pairs appearing in turn.
 
-+ Yixiang Liu is responsible for the idea genereation, coding and model training.
-+ Zhenyu Guan is responsible for report writing, part of coding and part of model training.
++ Yixiang Liu is responsible for the idea genereation, writing training code, training t5-small, Opus-mt in part 1 and bert2bert in part 2 and part of report writing.
++ Zhenyu Guan is responsible for report writing, writing machine_translation_LSTM and machine_translation_bert and training RNN with attention and bert2bert in part 1.
