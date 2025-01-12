@@ -6,4 +6,4 @@ above are presented here. We select the best one as the object of the next part.
 Eng-Fra and Eng-Hun pairs. In this part, we compare randomly shuffled Eng-Fra and Eng-Hun pairs with Eng-Fra and Eng-Hun pairs appearing in turn.
 
 + Yixiang Liu is responsible for the idea genereation, coding and model training.
-+ Zhenyu Guan is responsible for report writing and part of model training.
++ Zhenyu Guan is responsible for report writing, part of coding and part of model training.
