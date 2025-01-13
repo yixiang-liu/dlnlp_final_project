@@ -4,7 +4,7 @@ multi-language machine translation task. We devided the project into two parts:
 above are presented here. We select the best one as the object of the next part.
 2. After part 1, we have got the best performing model is bert2bert. Now we decide to fine-tune bert2bert with multi-language translation data, which includes
 Eng-Fra and Eng-Hun pairs. In this part, we compare randomly shuffled Eng-Fra and Eng-Hun pairs with Eng-Fra and Eng-Hun pairs appearing in turn.
-
+![image](https://github.com/yixiang-liu/dlnlp_final_project/blob/main/data%20structure.png)
 + Yixiang Liu is responsible for the idea genereation, writing training code, training t5-small, Opus-mt in part 1 and bert2bert in part 2 and part of report writing.
 + Zhenyu Guan is responsible for report writing, writing machine_translation_LSTM and machine_translation_bert and training RNN with attention and bert2bert in part 1.
 
