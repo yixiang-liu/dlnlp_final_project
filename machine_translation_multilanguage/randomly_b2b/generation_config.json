@@ -1,0 +1,5 @@
+{
+  "decoder_start_token_id": 101,
+  "pad_token_id": 0,
+  "transformers_version": "4.33.3"
+}
