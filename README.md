@@ -10,4 +10,5 @@ Eng-Fra and Eng-Hun pairs. In this part, we compare randomly shuffled Eng-Fra an
 + Yixiang Liu is responsible for the idea genereation, writing training code, training t5-small, Opus-mt in part 1 and bert2bert in part 2 and part of report writing.
 + Zhenyu Guan is responsible for report writing, writing machine_translation_LSTM and machine_translation_bert and training RNN with attention and bert2bert in part 1.
 
-Note: The parameter files and translaation data files are to large to be uploaded to Github, so if you are interested in our finetuned model, please download that at 
+Note: The parameter files and translation data files are to large to be uploaded to Github, so if you are interested in our fine-tuned model, please download that at https://disk.pku.edu.cn/link/AA12AE88EBC37C48BC8397E0D63DBAC795
+
